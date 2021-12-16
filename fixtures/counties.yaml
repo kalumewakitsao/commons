@@ -1,0 +1,282 @@
+- model: common.county
+  pk:
+  fields:
+    county_code: 1
+    county_name: Mombasa
+    province: Coast
+- model: common.county
+  pk:
+  fields:
+    county_code: 2
+    county_name: Kwale
+    province: Coast
+- model: common.county
+  pk:
+  fields:
+    county_code: 3
+    county_name: Kilifi
+    province: Coast
+- model: common.county
+  pk:
+  fields:
+    county_code: 4
+    county_name: Tana River
+    province: Coast
+- model: common.county
+  pk:
+  fields:
+    county_code: 5
+    county_name: Lamu
+    province: Coast
+- model: common.county
+  pk:
+  fields:
+    county_code: 6
+    county_name: Taita Taveta
+    province: Coast
+- model: common.county
+  pk:
+  fields:
+    county_code: 7
+    county_name: Garissa
+    province: North Eastern
+- model: common.county
+  pk:
+  fields:
+    county_code: 8
+    county_name: Wajir
+    province: North Eastern
+- model: common.county
+  pk:
+  fields:
+    county_code: 9
+    county_name: Mandera
+    province: North Eastern
+- model: common.county
+  pk:
+  fields:
+    county_code: 10
+    county_name: Marsabit
+    province: Eastern
+- model: common.county
+  pk:
+  fields:
+    county_code: 11
+    county_name: Isiolo
+    province: Eastern
+- model: common.county
+  pk:
+  fields:
+    county_code: 12
+    county_name: Meru
+    province: Eastern
+- model: common.county
+  pk:
+  fields:
+    county_code: 13
+    county_name: Tharaka-Nithi
+    province: Eastern
+- model: common.county
+  pk:
+  fields:
+    county_code: 14
+    county_name: Embu
+    province: Eastern
+- model: common.county
+  pk:
+  fields:
+    county_code: 15
+    county_name: Kitui
+    province: Eastern
+- model: common.county
+  pk:
+  fields:
+    county_code: 16
+    county_name: Machakos
+    province: Eastern
+- model: common.county
+  pk:
+  fields:
+    county_code: 17
+    county_name: Makueni
+    province: Eastern
+- model: common.county
+  pk:
+  fields:
+    county_code: 18
+    county_name: Nyandarua
+    province: Central
+- model: common.county
+  pk:
+  fields:
+    county_code: 19
+    county_name: Nyeri
+    province: Central
+- model: common.county
+  pk:
+  fields:
+    county_code: 20
+    county_name: Kirinyaga
+    province: Central
+- model: common.county
+  pk:
+  fields:
+    county_code: 21
+    county_name: Murang'a
+    province: Central
+- model: common.county
+  pk:
+  fields:
+    county_code: 22
+    county_name: Kiambu
+    province: Central
+- model: common.county
+  pk:
+  fields:
+    county_code: 23
+    county_name: Turkana
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 24
+    county_name: West Pokot
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 25
+    county_name: Samburu
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 26
+    county_name: Trans Nzoia
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 27
+    county_name: Uasin Gishu
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 28
+    county_name: Elgeyo Marakwet
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 29
+    county_name: Nandi
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 30
+    county_name: Baringo
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 31
+    county_name: Laikipia
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 32
+    county_name: Nakuru
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 33
+    county_name: Narok
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 34
+    county_name: Kajiado
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 35
+    county_name: Kericho
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 36
+    county_name: Bomet
+    province: Rift Valley
+- model: common.county
+  pk:
+  fields:
+    county_code: 37
+    county_name: Kakamega
+    province: Western
+- model: common.county
+  pk:
+  fields:
+    county_code: 38
+    county_name: Vihiga
+    province: Western
+- model: common.county
+  pk:
+  fields:
+    county_code: 39
+    county_name: Bungoma
+    province: Western
+- model: common.county
+  pk:
+  fields:
+    county_code: 40
+    county_name: Busia
+    province: Western
+- model: common.county
+  pk:
+  fields:
+    county_code: 41
+    county_name: Siaya
+    province: Nyanza
+- model: common.county
+  pk:
+  fields:
+    county_code: 42
+    county_name: Kisumu
+    province: Nyanza
+- model: common.county
+  pk:
+  fields:
+    county_code: 43
+    county_name: Homa Bay
+    province: Nyanza
+- model: common.county
+  pk:
+  fields:
+    county_code: 44
+    county_name: Migori
+    province: Nyanza
+- model: common.county
+  pk:
+  fields:
+    county_code: 45
+    county_name: Kisii
+    province: Nyanza
+- model: common.county
+  pk:
+  fields:
+    county_code: 46
+    county_name: Nyamira
+    province: Nyanza
+- model: common.county
+  pk:
+  fields:
+    county_code: 47
+    county_name: Nairobi
+    province: Nairobi
